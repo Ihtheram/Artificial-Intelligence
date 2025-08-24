@@ -1,5 +1,7 @@
 # AI Tooling
 
+**[⇦ Artificial Intelligence](https://github.com/Ihtheram/Artificial-Intelligence)**
+
 ## What is an AI Tool?
 An AI tool is a software application that uses artificial intelligence algorithms to perform specific tasks and solve problems.
 
