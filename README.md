@@ -1,7 +1,7 @@
 # Artificial Intelligence
 Study Materials for Artificial Intelligence
 
-* **[⇦ Tech Study](https://github.com/Ihtheram/Tech-Study)**
+**[⇐ Tech Study](https://github.com/Ihtheram/Tech-Study)**
   
 * **[Artificial Intelligence and Machine Learning](./AI-ML.md)**
 
