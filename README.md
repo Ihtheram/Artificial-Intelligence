@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Artificial Intelligence
 Study Materials for Artificial Intelligence
 
 * **[⇦ Tech Study](https://github.com/Ihtheram/Tech-Study)**
