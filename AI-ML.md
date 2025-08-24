@@ -1,4 +1,7 @@
 # Artificial Intelligence and Machine Learning
+
+**[⇦ Artificial Intelligence](https://github.com/Ihtheram/Artificial-Intelligence)**
+
 ## Artificial Intelligence
 
 Artificial intelligence, or AI, is technology that enables computers and machines to simulate human intelligence and problem-solving capabilities.
