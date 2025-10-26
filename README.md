@@ -2,6 +2,8 @@
 Study Materials for Artificial Intelligence
 
 **[⇐ Tech Study](https://github.com/Ihtheram/Tech-Study)**
+
+* **[Data Engineering](https://github.com/Ihtheram/Data-Engineering)** 
   
 * **[Artificial Intelligence and Machine Learning](./AI-ML.md)**
 
